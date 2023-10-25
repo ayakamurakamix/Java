@@ -2,8 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		String abc="山田";
-		System.out.println(abc+"さん");
+		int a=3+3;
+		System.out.println(a);
 
 	}
 
