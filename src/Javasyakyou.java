@@ -2,8 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		String name="高橋";
-		System.out.println(name);
+		String str1="鈴木";
+		System.out.println(str1);
 
 	}
 
