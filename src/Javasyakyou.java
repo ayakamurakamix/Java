@@ -2,8 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		float a1=5/2;
-		System.out.println(a1);
+		float a2=(float)5/2;
+		System.out.println(a2);
 
 	}
 
