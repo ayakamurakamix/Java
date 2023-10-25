@@ -2,8 +2,11 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		System.out.println("例外が\r\n発生しました。");
-
+		int suugaku=45;
+		int eigo=82;
+		if(suugaku>50||eigo>50) {
+			System.out.println("この人は合格です。");
+		}
 
 	}
 
