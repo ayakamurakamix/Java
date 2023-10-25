@@ -2,7 +2,7 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		char a='A';
+		int a=2*5;
 		System.out.println(a);
 
 	}
