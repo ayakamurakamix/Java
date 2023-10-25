@@ -2,7 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		System.out.println(5%3);
+		int a=6%3;
+		System.out.println(a);
 
 	}
 
