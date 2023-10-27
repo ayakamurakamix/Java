@@ -2,13 +2,11 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=20;
-		if(a<8) {
-			System.out.println("A");
-		}else if(a==8) {
-			System.out.println("B");
+		int b=18;
+		if(b>=20) {
+			System.out.println("成人");
 		}else {
-			System.out.println("C");
+			System.out.println("未成年");
 		}
 
 	}
