@@ -2,9 +2,9 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		String b="山田";
-		if(b.equals("山田")) {
-			System.out.println(b+"さん");
+		int a=5;
+		if(a<10&&3<a) {
+			System.out.println("A");
 		}
 
 	}
