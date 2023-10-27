@@ -2,8 +2,10 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int b=5;
-		if(b>=5||b<=0) {
+		int a=7;
+		if(a>8) {
+			System.out.println("A");
+		}else if(a<10) {
 			System.out.println("B");
 		}
 
