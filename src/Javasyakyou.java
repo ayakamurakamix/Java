@@ -2,11 +2,13 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=3;
-		if(a>5) {
+		int a=20;
+		if(a<8) {
 			System.out.println("A");
+		}else if(a==8) {
+			System.out.println("B");
 		}else {
-			System.out.println("Z");
+			System.out.println("C");
 		}
 
 	}
