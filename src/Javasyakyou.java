@@ -2,7 +2,7 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=10;
+		int a=2;
 		if(a>0)
 			if(a==2) {
 				System.out.println("A");
