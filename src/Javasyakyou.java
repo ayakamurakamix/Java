@@ -2,12 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		String[]name=new String[3];
-		name[0]="田中";
-		name[1]="高橋";
-		name[2]="斉藤";
+		String[]name= {"田中","高橋","斉藤"
+	};
 		System.out.println(name[0]);
-
 	}
-
 }
