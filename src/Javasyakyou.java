@@ -5,9 +5,9 @@ public class Javasyakyou {
 		String[][]country= {
 				{"日本","タイ"},
 				{"アメリカ","ブラジル"},
-				{"フランス","ロシア"}	
+				{"フランス","ロシア"}
 		};
-		System.out.println(country[0][0]);
+		System.out.println(country[0][1]);
 
 	}
 
