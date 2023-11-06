@@ -7,7 +7,7 @@ public class Javasyakyou {
 				{"アメリカ","ブラジル"},
 				{"フランス","ロシア"}
 		};
-		System.out.println(country[1][0]);
+		System.out.println(country[2][1]);
 
 	}
 
