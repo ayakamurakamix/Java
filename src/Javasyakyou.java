@@ -9,7 +9,7 @@ public class Javasyakyou {
 		country[1][1]="ブラジル";
 		country[2][0]="フランス";
 		country[2][1]="ロシア";
-		System.out.println(country[0][0]);
+		System.out.println(country[1][1]);
 
 	}
 
