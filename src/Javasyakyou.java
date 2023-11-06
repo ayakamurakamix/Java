@@ -2,7 +2,7 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=1;
+		int a=5;
 		switch(a) {
 		case 0:
 			System.out.println("aは0に等しい");
@@ -10,6 +10,8 @@ public class Javasyakyou {
 		case 1:
 			System.out.println("aは1に等しい");
 			break;
+		default:
+		System.out.println("aは0でも1でもない");
 		}
 
 	}
