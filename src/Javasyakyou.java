@@ -2,7 +2,7 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int number=88;
+		int number=36;
 		if(number<=100) {
 			if(number<20) {
 				System.out.println("未成年");
