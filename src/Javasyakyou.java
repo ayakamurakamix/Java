@@ -2,7 +2,7 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		String a="赤";
+		String a="青";
 		switch(a) {
 		case "赤":
 			System.out.println("赤組です");
@@ -10,6 +10,8 @@ public class Javasyakyou {
 		case "白":
 			System.out.println("白組です");
 			break;
+		default:
+			System.out.println("エラーです");
 		}
 
 	}
