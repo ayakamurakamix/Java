@@ -2,11 +2,11 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=5;
-		if(a%2==0) {
-			System.out.println("偶数");
-		}else {
-			System.out.println("奇数");
+		int a=20;
+		if(a>10) {
+			if(a<30) {
+				System.out.println("A");
+			}
 		}
 
 	}
