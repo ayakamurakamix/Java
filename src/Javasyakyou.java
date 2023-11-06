@@ -2,8 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		char[]c= {'x','y','z'};
-		System.out.println(c[2]);
+		int[]i= {1,5,10};
+		System.out.println(i[0]);
 
 	}
 
