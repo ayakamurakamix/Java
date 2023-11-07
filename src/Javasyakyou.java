@@ -2,9 +2,10 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=2;
-		String b=a%2==0?"偶数":"奇数";
-		System.out.println(b);
+		for(int i=0;i<=5;i++) {
+			String b=i%2==0?"☆":"★";
+			System.out.println(b);
+		}
 
 	}
 
