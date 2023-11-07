@@ -2,8 +2,8 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		int a=10;
-		String b=a>0?"プラス":"マイナス";
+		int a=2;
+		String b=a%2==0?"偶数":"奇数";
 		System.out.println(b);
 
 	}
