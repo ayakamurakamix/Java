@@ -5,7 +5,7 @@ public class Javasyakyou {
 		int i=10;
 		while(i>=1) {
 			System.out.println(i);
-			i-=2;
+			i-=3;
 		}
 
 	}
