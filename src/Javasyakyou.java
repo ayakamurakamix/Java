@@ -5,8 +5,8 @@ public class Javasyakyou {
 		int i=5;
 		do {
 			System.out.println(i);
-			i++;
-		}while(i<10);
+			i--;
+		}while(i>0);
 
 	}
 
