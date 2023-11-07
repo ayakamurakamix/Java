@@ -2,9 +2,10 @@
 public class Javasyakyou {
 
 	public static void main(String[] args) {
-		for(int i=0;i<=5;i++) {
-			String b=i%2==0?"☆":"★";
-			System.out.println(b);
+		int i=1;
+		while(i<=5) {
+			System.out.println(i);
+			i++;
 		}
 
 	}
